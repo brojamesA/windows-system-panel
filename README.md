@@ -1,4 +1,4 @@
-# windows-system-panel
+# windows-system-panel beta
 a brand new project i have been working on in midnight but is on beta
 
 is out on beta release i don't give up on this hard project!
